@@ -10,7 +10,7 @@ const Main = () => {
     return (
     <div className='main'>
         <div className="nav">
-            <p>Gemini</p>
+            <p>Kamoliddin</p>
             <img src={assets.user_icon} alt="" />
         </div>
          <div className="main-container">
@@ -19,7 +19,7 @@ const Main = () => {
             ? <>
                 <div className="greet">
                 <p><span>Hello, Dev.</span></p>
-                <p>How can I help you today?</p>
+                <p>I'm Kamoliddin, how can I help you today?</p>
             </div>
             <div className="cards">
                 <div className="card">
@@ -68,7 +68,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className="bottom-info">
-                    Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy and Gemini Apps
+                    The clone of Kamoliddin may display inaccurate info, including about people, so double-check his responses!!!
                 </p>
             </div>
          </div>

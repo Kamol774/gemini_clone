@@ -76,7 +76,8 @@ const ContextProvider = (props) => {
         loading,
         resultData,
         setInput,
-        newChat
+        newChat,
+        input
     }
 
     return (
